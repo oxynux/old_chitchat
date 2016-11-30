@@ -1,0 +1,5 @@
+ERROR 2016/11/30 02:53:04 utils.go:100: dial tcp [::1]:5432: getsockopt: connection refused Cannot find user
+ERROR 2016/11/30 02:57:01 utils.go:100: pq: SSL is not enabled on the server Cannot create user
+ERROR 2016/11/30 02:57:14 utils.go:100: pq: SSL is not enabled on the server Cannot find user
+ERROR 2016/11/30 03:01:55 utils.go:100: pq: SSL is not enabled on the server Cannot create user
+ERROR 2016/11/30 03:02:05 utils.go:100: pq: SSL is not enabled on the server Cannot find user
